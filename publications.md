@@ -53,7 +53,7 @@ D. Martínez-Rubio, V. Kanade, and P. Rebeschini<br>
 
 
 <li ><p>
-<b>Cheap orthogonal constraints in neural networks: A simple parametrization of the orthogonal and unitary group</b><br>
+<b>Cheap Orthogonal Constraints in Neural Networks: A Simple Parametrization of the Orthogonal and Unitary Group</b><br>
 M. Lezcano-Casado, and D. Martínez-Rubio
 <br>
 <i>In the 36th International Conference on Machine Learning, <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a></i>
@@ -170,7 +170,7 @@ C. Mingard, J. Skalse, G. Valle-Pérez, D. Martínez-Rubio, V. Mikulik, and A. A
 <ul class="biblist">
 
 <li ><p>
-<b>Improvements to inference compilation for probabilistic programming in large-scale scientific simulators</b><br>
+<b>Improvements to Inference Compilation for Probabilistic Programming in Large-Scale Scientific Simulators</b><br>
 M. Lezcano-Casado, A.G. Baydin, D. Martínez-Rubio, T.A. Le, F. Wood, L. Heinrich, G. Louppe, K. Cranmer, K. Ng, W. Bhimji and Prabhat
 <br>
 <i>In the <a href="https://dl4physicalsciences.github.io/" target="_blank">Workshop on Deep Learning for Physical Sciences</a>, <a href="https://nips.cc/Conferences/2017" target="_blank">NIPS 2017</a></i>
@@ -216,7 +216,7 @@ M. Lezcano-Casado, A.G. Baydin, D. Martínez-Rubio, T.A. Le, F. Wood, L. Heinric
 
 <li><p>
 <!--- M.Sc. Thesis<br> -->
-<b>Convergence analysis of an adaptive method of gradient descent</b><br>
+<b>Convergence Analysis of an Adaptive Method of Gradient Descent</b><br>
 University of Oxford, 2017
 <br />
 <a href="javascript:toggleBibtex('Martinez-Rubio2017')">[BibTeX]</a>
