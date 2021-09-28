@@ -125,9 +125,29 @@ A. G. Baydin,  R. Cornish, D. Martínez-Rubio, M. Schmidt, and F. Wood<br>
 
 <ul class="biblist">
 
+
+<li ><p>
+<b>Fast Algorithms for Packing Proportional Fairness and its Dual</b><br>
+F. Criado, D. Martínez-Rubio, S. Pokutta (2021)
+<br>
+<a href="javascript:toggleBibtex('Criado2021')">[BibTeX]</a>
+<a href="https://arxiv.org/pdf/2109.03678.pdf" target="_blank">[PDF]</a> 
+</p>
+<div id="bib_Criado2021" class="bibtex noshow">
+<pre>
+@article{criado2021fast,
+  title={Fast Algorithms for Packing Proportional Fairness and its Dual},
+  author={Criado, Francisco and Mart{\'\i}nez-Rubio, David and Pokutta, Sebastian},
+  journal={arXiv preprint arXiv:2109.03678},
+  year={2021}
+}
+</pre>
+</div>
+</li>
+
 <li ><p>
 <b>Global Riemannian Acceleration in Hyperbolic and Spherical Spaces</b><br>
-D. Martínez-Rubio
+D. Martínez-Rubio (2020)
 <br>
 <a href="javascript:toggleBibtex('MartinezRubio2020')">[BibTeX]</a>
 <a href="https://arxiv.org/pdf/2012.03618.pdf" target="_blank">[PDF]</a> 
@@ -145,9 +165,10 @@ D. Martínez-Rubio
 </li>
 
 
+
 <li ><p>
 <b>Neural  Networks  are a priori Biased Towards Boolean Functions with Low Entropy</b><br>
-C. Mingard, J. Skalse, G. Valle-Pérez, D. Martínez-Rubio, V. Mikulik, and A. A. Louis
+C. Mingard, J. Skalse, G. Valle-Pérez, D. Martínez-Rubio, V. Mikulik, and A. A. Louis (2019)
 <br>
 <a href="javascript:toggleBibtex('Mingard2019')">[BibTeX]</a>
 <a href="https://arxiv.org/pdf/1909.11522.pdf" target="_blank">[PDF]</a> 
