@@ -4,7 +4,7 @@ description:      Welcome to my academic site.
 #url:              http://localhost:5000
 #http://localhost:5000
 url:              https://damaru2.github.io
-disqus_shortname: damaru2
+disqus_shortname: damaru2-github-io
 
 # Owner/author information
 owner:
@@ -29,6 +29,8 @@ links:
     url: /publications/
   - title: Curriculum
     url: /cv/
+  - title: Blog
+    url: /blog/
   - title: About
     url: /
 #  - title: Posts
