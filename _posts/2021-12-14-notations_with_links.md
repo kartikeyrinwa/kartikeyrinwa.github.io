@@ -19,7 +19,7 @@ Defining your own commands in LaTeX for most of your math notation is considered
 {% highlight tex %}
 \usepackage[colorlinks=true]{hyperref} % Remove boxes around links
 % \normalcolor is used so links are non-intrusive
-\newcommand\newlink[2]{ {\protect\hyperlink{#1}{\normalcolor #2} } }
+\newcommand\newlink[2]{ {\protect\hyperlink{#1}{\normalcolor #2}}}
 \makeatletter
 \newcommand\newtarget[2]{\Hy@raisedlink{\hypertarget{#1}{}}#2}
 \makeatother
@@ -40,6 +40,9 @@ define the box $\newtarget{def:Box}{\B} \defi [-\omega, 0]^{\n}$.
 {% endhighlight %}
 
 I understand that doing this for all of your notation can feel like a lot of work or a hard thing to ask a co-author to follow, but most of the time your notation is just one letter, and you can make the command (that you are using anyway) have a link to its definition effortlessly. If you write in a regular way, you can even use substitutions on your text after the fact in order to replace say, all the instances of your minimizer `x^\ast` of a function with the command `\xast` that you define after having written your text. And if you don't write so regularly and you don't want to define and type, say `\x[i][t]` for the notation that you like to chaotically write as `x_i^t`, `x^t_i`, or `x_{i}^t`, it is fine. You don't have to add links for all of your notation. You can also just do simple substitutions like only substituting your `x_i^t` which accounts for the majority of your $$x_i^t$$ and leave the others unedited. It is just a matter of adding helpful things to the point you are willing to bother. A little is enough. Also: vim (or equivalent) is your friend.
+
+{% include _image.html url="/images/evince_link_preview.png" description="Figure 1: I don't use Evince often, but if you do, you can enjoy their internal link previews shown when you mouse hover, which could even save you the jump." %}
+
 
 ### Some use cases:
 
@@ -105,7 +108,7 @@ If you want to go the extra mile, you have to play with your unfriendly LaTeX.
 
 + Note that I am setting the font color to `\normalcolor`, which is the default color set in the preamble. This hack could not work in some contexts, namely if you locally set a different color. The command `\protect` is necessary when you use a hyperlink in some texts that LaTeX treats in a special way, like captions and section titles, but it doesn't hurt to add it all the time. Note the command `\newtarget` contains `\Hy@raisedlink`. This makes the target be a bit higher than the actual target, which corrects the way most readers jump which is that they place the hypertarget at the top edge of the screen, and you would normally want to jump a bit higher so you can read the line where the hypertarget is. 
 
-+ It is relatively important to have the command you are defining in the second argument of newtarget (for instance, if you did `$\newtarget{def:Box}{}\B$` you could have problems.
++ It is relatively important to have the command you are defining in the second argument of newtarget (for instance, if you did `$\newtarget{def:Box}{}\B$` you could have problems. Or at least do not add two consecutive targets without anything in the middle.
 
 + If you use one of these commands in a subindex or superindex, do write the curly braces: write `\psi^{\astfenchel}` instead of `\psi^\astfenchel`.
 
@@ -120,10 +123,10 @@ If you want to go the extra mile, you have to play with your unfriendly LaTeX.
 {% highlight tex %}
 \usepackage{xargs}
 % Optional superindex for exponentiating.
-\newcommandx*\Ck[2][1=k, 2= , usedefault]{\newlink{def:Ck}{C_{#1}^{#2} } }
+\newcommandx*\Ck[2][1=k, 2= , usedefault]{\newlink{def:Ck}{C_{#1}^{#2}}}
 % Optional subindex for a vector entry
 \newcommandx*\nuk[2][1=k, 2= , usedefault]{
-    \newlink{def:remainder_trunc_coord_grad}{\nu}^{( #1 )}_{#2} }
+    \newlink{def:remainder_trunc_coord_grad}{\nu^{( #1 )}_{#2}}}
 % Usage:
 $\Ck$, $\Ck[k]$, $\Ck[k+1]$, $\Ck[k+1][2]$,
 $\nuk$, $\nuk[k]$, $\nuk[k+1]$, $\nuk[k][i]$.
@@ -164,6 +167,7 @@ This feature is really nice, but if you really want to enjoy it, you should lear
 | Evince | Alt + p | 
 | Pdf Reader Pro | Press the `jump back` button |
 | Xodo (Android or iOS)| Arrows appear |
+
 
 <!--
 | Reader | How to go back | How to follow a link | Notes |
