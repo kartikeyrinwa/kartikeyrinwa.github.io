@@ -10,7 +10,7 @@ comments: true
 You are reading some maths and you wonder what this notation you just read means. Maybe you are coming back to a text after some time. Maybe you just wanted to jump to Theorem 3 in a paper and read its statement. But you don't know what most of the notation means and definitions are inconveniently scattered across the whole text. Luckily, you don't need to scroll up for a while, skimming through the paper to find where each notation was defined. You can just click on the notation to jump to its definition and then you can jump back: the author had the courtesy of adding these links to the PDF document and you are happy they did.
 
 ---
-In this post, I explain how you can write maths with LaTeX so that all the instances of your main notations have a link to their definitions. [Here is a paper of mine](https://arxiv.org/pdf/2109.03678.pdf) implementing the idea <small>(note I was not using `\Hy@raisedlink` before so you jump a bit lower than where you would want. An updated version with updated LaTeX and new math is coming soon)</small>.
+**In this post, I explain how you can write maths with LaTeX so that all the instances of your main notations have a link to their definitions. Here is [a paper](https://arxiv.org/pdf/2012.03618v4.pdf), and [another one](https://arxiv.org/pdf/2109.03678.pdf) in which I implement the idea** <small>(The second one was not using `\Hy@raisedlink` so you jump a bit lower than where you would want. An updated version with updated LaTeX and new math is coming soon)</small>.
 
 ---
 
