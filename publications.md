@@ -14,6 +14,28 @@ You can also find all <a href="https://scholar.google.co.uk/citations?user=dMwpf
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
+
+<li ><p>
+<b>Global Riemannian Acceleration in Hyperbolic and Spherical Spaces</b><br>
+D. Martínez-Rubio (2020)<br>
+<i>In the 33rd International Conference on Algorithmic Learning Theory, <a href="http://algorithmiclearningtheory.org/alt2022/" target="_blank">ALT 2022</a></i>
+<br>
+<a href="javascript:toggleBibtex('MartinezRubio2020')">[BibTeX]</a>
+<a href="https://arxiv.org/pdf/2012.03618.pdf" target="_blank">[PDF]</a> 
+</p>
+<div id="bib_MartinezRubio2020" class="bibtex noshow">
+<pre>
+@article{martinez2020global,
+  title={Global Riemannian Acceleration in Hyperbolic and Spherical Spaces},
+  author={Mart{\'\i}nez-Rubio, David},
+  journal={arXiv preprint arXiv:2012.03618},
+  year={2020}
+}
+</pre>
+</div>
+</li>
+
+
 <li ><p>
 <b>Decentralized Cooperative Stochastic Bandits</b><br>
 D. Martínez-Rubio, V. Kanade, and P. Rebeschini<br>
@@ -145,25 +167,6 @@ F. Criado, D. Martínez-Rubio, S. Pokutta (2021)
 </div>
 </li>
 
-<li ><p>
-<b>Global Riemannian Acceleration in Hyperbolic and Spherical Spaces</b><br>
-D. Martínez-Rubio (2020)
-<br>
-<a href="javascript:toggleBibtex('MartinezRubio2020')">[BibTeX]</a>
-<a href="https://arxiv.org/pdf/2012.03618.pdf" target="_blank">[PDF]</a> 
-</p>
-<div id="bib_MartinezRubio2020" class="bibtex noshow">
-<pre>
-@article{martinez2020global,
-  title={Global Riemannian Acceleration in Hyperbolic and Spherical Spaces},
-  author={Mart{\'\i}nez-Rubio, David},
-  journal={arXiv preprint arXiv:2012.03618},
-  year={2020}
-}
-</pre>
-</div>
-</li>
-
 
 
 <li ><p>
@@ -232,11 +235,32 @@ M. Lezcano-Casado, A.G. Baydin, D. Martínez-Rubio, T.A. Le, F. Wood, L. Heinric
 </ul>
 
 
-<h4 style="margin-bottom:0px;padding-top:20px;">MSc Thesis</h4>
+<h4 style="margin-bottom:0px;padding-top:20px;">Theses</h4>
 <ul class="biblist">
 
 <li><p>
+<!--- PhD. Thesis<br> -->
+<b>PhD Thesis</b><br>
+<b>Acceleration in First-Order Optimization Methods: Promenading Beyond Convexity or Smoothness, and Applications</b><br>
+University of Oxford, 2021
+<br />
+<a href="javascript:toggleBibtex('Martinez-Rubio2021')">[BibTeX]</a>
+<a href="https://damaru2.github.io/phd_thesis/thesis.pdf"  target="_blank">[PDF]</a>
+</p>
+<div id="bib_Martinez-Rubio2021" class="bibtex noshow">
+<pre>
+@article{martinezrubio2021acceleration,
+  title={Acceleration in First-Order Optimization Methods: Promenading Beyond Convexity or Smoothness, and Applications},
+  author={Mart{\'\i}nez-Rubio, David},
+  journal={University of Oxford, Oxford, PhD thesis},
+  year={2021}
+}</pre>
+</div>
+</li>
+
+<li><p>
 <!--- M.Sc. Thesis<br> -->
+<b>MSc Thesis</b><br>
 <b>Convergence Analysis of an Adaptive Method of Gradient Descent</b><br>
 University of Oxford, 2017
 <br />
