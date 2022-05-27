@@ -15,7 +15,7 @@ owner:
   linkedin: kartikey-sharma-a79b1457
   google_scholar: IVCufoQAAAAJ
   github: kartikeyrinwa
-  cv: ./docs/Resume.pdf
+  cv: ../docs/cv.pdf
 # Analytics and webmaster tools stuff goes here
 #google_analytics: 
 #google_verify:
