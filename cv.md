@@ -7,5 +7,5 @@ modified: 2-25-2021
 comments: false
 ---
 
-Here is my <a href="../docs/cv.pdf" target="_blank">CV</a>.
+Here is my <a href="/docs/cv.pdf" target="_blank">CV</a>.
 
