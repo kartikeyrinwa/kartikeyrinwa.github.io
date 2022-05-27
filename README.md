@@ -1,6 +1,6 @@
-# David Martínez-Rubio's site
+# Kartikey Sharma's site
 
-This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog. I forked this repository from the website of **[David Martínez-Rubio](https://damaru2.github.io/)** 
 
 
 ## License
