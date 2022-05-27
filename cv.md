@@ -7,5 +7,5 @@ modified: 2-25-2021
 comments: false
 ---
 
-Here is my <a href="https://drive.google.com/file/d/1kMMZIIiaMkXM1yqYr2lD-qo-H_EZnsTN/view" target="_blank">CV</a>.
+Here is my <a href="./docs/Resume.pdf" target="_blank">CV</a>.
 
