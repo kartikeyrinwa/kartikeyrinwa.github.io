@@ -7,21 +7,19 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also find all <a href="https://scholar.google.com/citations?user=IVCufoQAAAAJ&hl=en" target="_blank">my publications on Google Scholar</a>.
+You can also find all my publications on <a href="https://scholar.google.com/citations?user=IVCufoQAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Pre-prints</h4>
+<h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
 <ul class="preprint_list">
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
-{% if publi.type == pre-print %}
+{% if publi.type == "preprint" %}
 
 <li ><p>
-<b>{{ publi.title }}</b>
+<b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
-<i>{{ publi.link_main.display }}, <a href="{{ publi.link_main.url }}" target="_blank">Link</a></i>
-<br>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
 </p>
@@ -32,6 +30,7 @@ You can also find all <a href="https://scholar.google.com/citations?user=IVCufoQ
 </div>
 </li>
 
+{% endif %}
 {% endfor %}
 
 </ul>
@@ -42,12 +41,12 @@ You can also find all <a href="https://scholar.google.com/citations?user=IVCufoQ
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
-{% if publi.type == journal %}
+{% if publi.type == "journal" %}
 
 <li ><p>
-<b>{{ publi.title }}</b>
+<b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
-<i>{{ publi.link_main.display }}, <a href="{{ publi.link_main.url }}" target="_blank">Link</a></i>
+<i>{{ publi.link_main.display }}, <a href="{{ publi.link_main.url }}" target="_blank">[Link]</a></i>
 <br>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
@@ -59,6 +58,7 @@ You can also find all <a href="https://scholar.google.com/citations?user=IVCufoQ
 </div>
 </li>
 
+{% endif %}
 {% endfor %}
 
 </ul>
