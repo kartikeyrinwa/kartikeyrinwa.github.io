@@ -1,0 +1,91 @@
+- title: Optimization under Connected Uncertainty
+  year: 2022
+  type: journal
+  label: nohadani2022optimization
+  image: 
+  description: 
+  authors: Omid Nohadani, Kartikey Sharma
+  link_pre:
+    url: https://arxiv.org/pdf/2202.10602.pdf
+    display: arXiv:2202.10602 (2022)
+  link_main:
+    url: https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2021.0067
+    display: INFORMS Journal on Optimization
+  bibtex: |
+        @article{nohadani2022optimization,
+          title={Optimization Under Connected Uncertainty},
+          author={Nohadani, Omid and Sharma, Kartikey},
+          journal={INFORMS Journal on Optimization},
+          year={2022},
+          publisher={INFORMS}}
+  
+
+- title: Optimization under Decision Dependent Uncertainty
+  year: 2018
+  type: journal
+  label: nohadani2018optimization
+  image: 
+  description: 
+  authors: Omid Nohadani, Kartikey Sharma
+  link_pre:
+    url: https://arxiv.org/pdf/1611.07992.pdf
+    display: arXiv:1611.07992 (2018)
+  link_main:
+    url: https://epubs.siam.org/doi/abs/10.1137/17M1110560
+    display: SIAM Journal on Optimization
+  bibtex: |
+        @article{nohadani2018optimization,
+        title={Optimization under decision-dependent uncertainty},
+        author={Nohadani, Omid and Sharma, Kartikey},
+        journal={SIAM Journal on Optimization},
+        volume={28},
+        number={2},
+        pages={1773--1795},
+        year={2018},
+        publisher={SIAM}}
+  
+
+- title: "Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks"
+  year: 2022
+  type: journal
+  label: kossen2022toward
+  image: 
+  description: 
+  authors: Tabea Kossen, Manuel A Hirzel, Vince I Madai, Franziska Boenisch, Anja Hennemuth, Kristian Hildebrand, Sebastian Pokutta, Kartikey Sharma, Adam Hilbert, Jan Sobesky, Ivana Galinovic, Ahmed A Khalil, Jochen B Fiebach, and Dietmar Frey
+  link_pre:
+    url: 
+    display: 
+  link_main:
+    url: https://www.frontiersin.org/articles/10.3389/frai.2022.813842/pdf
+    display: Frontiers in Artificial Intelligence
+  bibtex: |
+        @article{kossen2022toward,
+        title={Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks},
+        author={Kossen, Tabea and Hirzel, Manuel A and Madai, Vince I and Boenisch, Franziska and Hennemuth, Anja and Hildebrand, Kristian and Pokutta, Sebastian and Sharma, Kartikey and Hilbert, Adam and Sobesky, Jan and others},
+        journal={Frontiers in Artificial Intelligence},
+        volume={5},
+        year={2022},
+        publisher={Frontiers Media SA}}
+  
+
+- title: "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
+  year: 2022
+  type: pre-print
+  label: waldchen2022merlin
+  image: 
+  description: 
+  authors: Stephan Wäldchen, Kartikey Sharma, Max Zimmer, Sebastian Pokutta
+  link_pre:
+    url: https://arxiv.org/abs/2206.00759.pdf
+    display: arXiv:2206.00759 (2022)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{waldchen2022merlin,
+        title={Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes},
+        author={W{\"a}ldchen, Stephan and Sharma, Kartikey and Zimmer, Max and Pokutta, Sebastian},
+        journal={arXiv preprint arXiv:2206.00759},
+        year={2022}}
+
+
