@@ -84,3 +84,26 @@
         pages={1773--1795},
         year={2018},
         publisher={SIAM}}
+
+- title: "Detecting earnings management in India: A sector-wise study"
+  year: 2014
+  type: journal
+  label: kaur2014detecting
+  image: 
+  description: 
+  authors: Raghuveer Kaur, Kartikey Sharma, and Ashu Khanna
+  link_pre:
+    url: https://www.researchgate.net/profile/Raghuveer-Kaur/publication/264343764_Detecting_Earnings_Management_in_India_A_sector-wise_study/links/53d91a2b0cf2e38c6331eec4/Detecting-Earnings-Management-in-India-A-sector-wise-study.pdf
+    display: ResearchGate
+  link_main:
+    url: https://www.iiste.org/Journals/index.php/EJBM/article/view/12209
+    display: European Journal of Business and Management
+  bibtex: |
+        @article{kaur2014detecting,
+        title={Detecting earnings management in India: A sector-wise study},
+        author={Kaur, Raghuveer and Sharma, Kartikey and Khanna, Ashu},
+        journal={European Journal of Business and Management},
+        volume={6},
+        number={11},
+        pages={11--18},
+        year={2014}}
