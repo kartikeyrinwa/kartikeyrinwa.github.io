@@ -1,3 +1,21 @@
+- title: "Distributionally Robust Optimization over Time"
+  year: 2022
+  type: preprint
+  label: aigner2022distributionally
+  image: 
+  description: 
+  authors: Kevin-Martin Aigner, Andreas Bärmann, Kristin Braun, Frauke Liers, Sebastian Pokutta, Oskar Schneider, Kartikey Sharma, Sebastian Tschuppik
+  link_pre:
+    url: https://opus4.kobv.de/opus4-trr154/frontdoor/deliver/index/docId/496/file/dro_over_time_preprint.pdf
+    display: kobv.de (2022)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{aigner2022distributionally,
+        title={Distributionally Robust Optimization over Time},
+        author={Aigner, Kevin-Martin and B{\"a}rmann, Andreas and Braun, Kristin and Liers, Frauke and Pokutta, Sebastian and Schneider, Oskar and Sharma, Kartikey and Tschuppik, Sebastian}}
+
 - title: "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
   year: 2022
   type: preprint
