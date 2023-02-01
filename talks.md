@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: publications
 permalink: /talks/
 title: Talks
 tagline: Talks that I have given
@@ -13,7 +13,7 @@ comments: false
 {% assign number_printed = 0 %}
 {% for talk in site.data.talks %}
 
-<li ><p>
+<li><p>
 <b>{{ talk.month }} / {{ talk.year }}:</b> ({{talk.type}}) "{{ talk.title }}"
 Talk at {{talk.venue}} ({{talk.location}}). [{{ <a href="/docs/slides/{{ talk.slides }}" target="_blank">slides</a> }}]
 </p>
