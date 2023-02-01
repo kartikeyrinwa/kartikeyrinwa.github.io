@@ -11,11 +11,13 @@ comments: false
 <ul class="talks_list">
 
 {% assign number_printed = 0 %}
-{% for talk in site.data.talks %}
+{% assign sorted_talks = (site.data.talks | sort: 'year') | reverse %}
+
+{% for talk in sorted_talks %}
 
 <li><p>
-<b>{{ talk.month }} / {{ talk.year }}:</b> ({{talk.type}}) "{{ talk.title }}"
-Talk at {{talk.venue}} ({{talk.location}}). [{{ <a href="/docs/slides/{{ talk.slides }}" target="_blank">slides</a> }}]
+<b>{{ talk.month }}/{{ talk.year }}:</b> ({{talk.type}}) "{{ talk.title }}".
+Talk at {{talk.venue}} ({{talk.location}}). [<a href="/docs/slides/{{ talk.slides }}" target="_blank">{{ talk.slidetype }}</a>]
 </p>
 </li>
 

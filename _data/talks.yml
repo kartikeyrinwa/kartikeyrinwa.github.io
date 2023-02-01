@@ -5,107 +5,112 @@
   venue: INFORMS Annual Meeting 
   location: Nashville, USA
   slides: "informs_2016.pdf"
+  slidetype: "slides"
 
 - title: "Optimization under Decision Dependent Uncertainty"
   year: 2017
-  month: 07
-  type: technical
-  venue: IFORS
-  location: Québec City, Canada
-  slides: "ifors_2017.pdf"
-
-- title: "Optimization under Connected Uncertainty"
-  year: 2017
-  month: 10
-  type: technical
-  venue: INFORMS Annual Meeting
-  location: Houston, USA
-  slides: "informs_2017.pdf"
-
-- title: "Optimization under Decision Dependent Uncertainty"
-  year: 2017
-  month: 5
+  month: "05"
   type: poster
   venue: NEMFEST
   location: Atlanta, USA
   slides: "nemfest_2017.pdf"
-  
+  slidetype: "slides"
+
+- title: "Optimization under Decision Dependent Uncertainty"
+  year: 2017
+  month: "07"
+  type: technical
+  venue: IFORS
+  location: Québec City, Canada
+  slides: "ifors_2017.pdf"
+  slidetype: "slides"
+
+- title: "Optimization under Connected Uncertainty"
+  year: 2017
+  month: "10"
+  type: technical
+  venue: INFORMS Annual Meeting
+  location: Houston, USA
+  slides: "informs_2017.pdf"
+  slidetype: "slides"
+
 - title: "Optimization under Decision Dependent Uncertainty"
   year: 2018
-  month: 07
+  month: "07"
   type: technical
   venue: ISMP
   location: Bordeaux, France
   slides: "ifors_2017.pdf"
+  slidetype: "slides"
 
 - title: "Optimization under Connected Uncertainty"
   year: 2018
-  month: 11
+  month: "11"
   type: technical
   venue: INFORMS Annual Meeting
   location: Phoenix, USA
   slides: "informs_2018.pdf"
+  slidetype: "slides"
 
 - title: "Decision Dependent Uncertainty with Uncertain Reduction"
   year: 2019
-  month: 10
+  month: "10"
   type: technical
   venue: INFORMS Annual Meeting
   location: Seattle, USA
   slides: "informs_2019.pdf"
-
-- title: "Decision Dependent Uncertainty with Uncertain Reduction"
-  year: 2019
-  month: 10
-  type: technical
-  venue: INFORMS Annual Meeting
-  location: Seattle, USA
-  slides: "informs_2019.pdf"
+  slidetype: "slides"
 
 - title: "Dynamic Capacity Management for Deferred Surgeries"
   year: 2021
-  month: 10
+  month: "10"
   type: technical
   venue: INFORMS Annual Meeting
   location: Online
   slides: "informs_2021.mp4"
+  slidetype: "video"
 
 - title: "Dynamic Capacity Management for Deferred Surgeries"
   year: 2022
-  month: 06
+  month: "06"
   type: technical
   venue: SIG Presentation, MSOM
   location: Munich, Germany
   slides: "msom_2022.pdf"
+  slidetype: "slides"
 
 - title: "Distributionally Robust Optimization over Time"
   year: 2022
-  month: 07
+  month: "07"
   type: technical
   venue: ICCOPT
   location: Bethlehem, USA
   slides: "iccopt_2022.pdf"
+  slidetype: "slides"
 
 - title: "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
   year: 2022
-  month: 09
+  month: "09"
   type: technical
   venue: DMV Annual Meeting
   location: Berlin, Germany
   slides: "dmv_2022.pdf"
+  slidetype: "slides"
 
 - title: "Fast Robust Classifiers for Data Streams"
   year: 2022
-  month: 10
+  month: "10"
   type: technical
   venue: INFORMS Annual Meeting
   location: Online
   slides: "informs_2022.pdf"
+  slidetype: "slides"
 
 - title: "Dynamic Capacity Management for Deferred Surgeries"
   year: 2022
-  month: 12
+  month: "12"
   type: technical
   venue: MATH+ Spotlight Talk
   location: Berlin, Germany
   slides: "spotlight_2022.pdf"
+  slidetype: "slides"
