@@ -1,6 +1,6 @@
 - title: "Distributionally Robust Optimization over Time"
-  year: 2022
-  type: preprint
+  year: 2023
+  type: journal
   label: aigner2022distributionally
   image: 
   description: 
@@ -10,7 +10,7 @@
     display: kobv.de (2022)
   link_main:
     url: 
-    display: 
+    display: Accepted for publication in INFORMS Journal on Optimization
   bibtex: |
         @article{aigner2022distributionally,
         title={Distributionally Robust Optimization over Time},
