@@ -1,3 +1,22 @@
+- title: "Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions"
+  year: 2023
+  type: preprint
+  label: goess2023nic
+  image: 
+  description: 
+  authors: Adrian Goess, Alexander Martin, Sebastian Pokutta, Kartikey Sharma
+  link_pre:
+    url: https://opus4.kobv.de/opus4-trr154/files/518/nic_preprint.pdf
+    display: kobv.de (2023)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{goess2023nic,
+        title={Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions},
+        author={Goess, Adrian and Martin, Alexander and Pokutta, Sebastian and Sharma, Kartikey}}
+
+
 - title: "Distributionally Robust Optimization over Time"
   year: 2023
   type: journal
@@ -22,7 +41,7 @@
   label: waldchen2022merlin
   image: 
   description: 
-  authors: Stephan Wäldchen, Kartikey Sharma, Max Zimmer, Sebastian Pokutta
+  authors: Stephan Wäldchen, Kartikey Sharma, Max Zimmer, Berkant Turan, Sebastian Pokutta
   link_pre:
     url: https://arxiv.org/abs/2206.00759.pdf
     display: arXiv:2206.00759 (2022)
