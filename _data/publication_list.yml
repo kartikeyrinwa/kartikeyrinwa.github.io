@@ -17,7 +17,7 @@
         author={Goess, Adrian and Martin, Alexander and Pokutta, Sebastian and Sharma, Kartikey}}
 
 
-- title: "Distributionally Robust Optimization over Time"
+- title: "Data-driven Distributionally Robust Optimization over Time"
   year: 2023
   type: journal
   label: aigner2022distributionally
@@ -25,10 +25,10 @@
   description: 
   authors: Kevin-Martin Aigner, Andreas Bärmann, Kristin Braun, Frauke Liers, Sebastian Pokutta, Oskar Schneider, Kartikey Sharma, Sebastian Tschuppik
   link_pre:
-    url: https://opus4.kobv.de/opus4-trr154/frontdoor/deliver/index/docId/496/file/dro_over_time_preprint.pdf
-    display: kobv.de (2022)
+    url: https://arxiv.org/abs/2304.05377
+    display: arXiv:2304.05377 (2023)
   link_main:
-    url: 
+    url: https://pubsonline.informs.org/doi/10.1287/ijoo.2023.0091
     display: Accepted for publication in INFORMS Journal on Optimization
   bibtex: |
         @article{aigner2022distributionally,
