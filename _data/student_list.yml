@@ -104,3 +104,97 @@
               submitted:
               defended:
               graded: 
+
+- first_name: Berkant [Ferhat]
+  last_name: Turan
+  gender: male
+  email: turan@zib.de
+  homepage: b-turan.github.io
+  degrees:
+    - type: phd
+      field: mathematics
+      institution: tub
+      advisor: sebastian.pokutta
+      internal_advisor:
+        - stephan.waeldchen
+        - kartikey.sharma
+      title: 
+      topic: 
+      grade: 
+      dates:
+          started: 2022-summer
+          registered:
+          submitted:
+          defended: 
+          graded:
+  
+- first_name: Malin
+  last_name: Heinacher
+  gender: female
+  private_email: malin@heinacher.de
+  credentials:
+    tub: 3814039
+  degrees:
+    - type: bsc
+      field: 
+      institution: tub
+      thesis:
+          advisor: sebastian.pokutta
+          reviewer: thorsten.koch
+          internal_advisor: kartikey.sharma
+          title: Mirror Descent Method with Frank-Wolfe algorithm
+          topic: Frank-Wolfe algorithm
+          grade:
+          dates:
+              started:
+              registered: 2021-03-15
+              submitted: 2021-04-29
+              defended:
+              graded: 
+
+- first_name: Manuel [Alexander]
+  last_name: Hirzel
+  gender: male
+  credentials:
+    tub: 387705
+  degrees:
+    - type: msc
+      field: scientific computing
+      institution: tub
+      thesis:
+          advisor: sebastian.pokutta
+          internal_advisor: kartikey.sharma
+          title: Synthetic TOF-MRA image-label pairs with differential privacy guarantees using generative adversarial networks
+          topic: 
+          grade:
+          dates:
+              started:
+              registered: 2021-04
+              submitted: 2021-09-15
+              defended:
+              graded: 
+
+- first_name: Willy
+  last_name: Riewaldt
+  gender: male
+  private_email: w.riewaldt@web.de
+  credentials:
+    tub: 381734
+  degrees:
+    - type: bsc
+      field: mathematics
+      institution: tub
+      thesis:
+          advisor: sebastian.pokutta
+          internal_advisor: kartikey.sharma
+          title: Boosting via Integer Programming over Stronger Base Learners
+          topic:
+            - Boosting
+            - Integer Programming
+          grade:
+          dates:
+              started:
+              registered: 2021-01
+              submitted: 2021-03-10
+              defended: 
+              graded: 
