@@ -115,3 +115,22 @@
   location: Berlin, Germany
   slides: "spotlight_2022.pdf"
   slidetype: "slides"
+
+- title: Traffic Assignment and Network Design
+  year: 2023
+  month: "03"
+  type: workshop
+  venue: workshop on optimization and machine learning
+  location: Waischenfeld, Germany
+  paper:
+  slides:
+
+- title: "Data-driven Distributionally Robust Optimization over Time"
+  year: 2023
+  month: "7"
+  type: technical
+  venue: Invited Seminar
+  location: Passau, Germany
+  slides: 
+  slidetype: 
+
