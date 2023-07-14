@@ -1,5 +1,4 @@
-ingomeise:
-  first_name: Ingo
+- first_name: Ingo
   last_name: Meise
   gender: male
   email: meise@zib.de
@@ -32,8 +31,7 @@ ingomeise:
     iol:
       start: 2020-summer
 
-dorotheav: 
-  first_name: Dorothea
+- first_name: Dorothea
   last_name: Völkerling
   gender: female
   credentials:
@@ -58,8 +56,7 @@ dorotheav:
               defended:
               graded: 
 
-hagenletzig: 
-  first_name: Hagen
+- first_name: Hagen
   last_name: Letzig
   gender: male
   private_email: letzighagen@gmail.com
@@ -85,8 +82,7 @@ hagenletzig:
             defended: 
             graded: 
 
-joshuaa: 
-  first_name: Joshua
+- first_name: Joshua
   last_name: Augustin
   gender: male
   private_email: joshua.augustin@gmx.de

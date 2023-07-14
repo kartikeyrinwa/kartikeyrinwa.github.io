@@ -16,14 +16,18 @@ List of students I have worked with:
 
 {% assign number_printed = 0 %}
 {% for stud in site.data.student_list %}
-{% if stud.degrees.type == "bsc" %}
+{% for sdeg in stud.degrees %}
+{% if sdeg.type == "bsc" %}
+{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
 <b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ stud.thesis.title }}</b> 
+<b>Thesis: {{ sdeg.thesis.title }}</b> 
 </li>
 
 {% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
 </ul>
@@ -35,14 +39,18 @@ List of students I have worked with:
 
 {% assign number_printed = 0 %}
 {% for stud in site.data.student_list %}
-{% if stud.degrees.type == "msc" %}
+{% for sdeg in stud.degrees %}
+{% if sdeg.type == "msc" %}
+{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
 <b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ stud.thesis.title }}</b> 
+<b>Thesis: {{ sdeg.thesis.title }}</b> 
 </li>
 
 {% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
 </ul>
@@ -55,14 +63,18 @@ List of students I have worked with:
 
 {% assign number_printed = 0 %}
 {% for stud in site.data.student_list %}
-{% if stud.degrees.type == "phd" %}
+{% for sdeg in stud.degrees %}
+{% if sdeg.type == "phd" %}
+{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
 <b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ stud.thesis.title }}</b> 
+<b>Thesis: {{ sdeg.thesis.title }}</b> 
 </li>
 
 {% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
 </ul>
