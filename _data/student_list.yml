@@ -1,0 +1,110 @@
+ingomeise:
+  first_name: Ingo
+  last_name: Meise
+  gender: male
+  email: meise@zib.de
+  private_email: meiseingo@gmail.com
+  degrees:
+    - type: bsc
+      field: mathematics
+      dates:
+        started: True
+      thesis:
+          advisor: sebastian.pokutta
+          reviewer: 
+          internal_advisor: kartikey.sharma
+          title: New PAC-Bounds for Classification via Partitioning
+          topic: Theoretical Machine Learning
+          dates:
+              started:
+              registered: 
+              submitted: 2023-02-09
+              defended: 
+              graded: 
+  positions:
+    - type: shk
+      institution: zib
+      supervision: kartikey.sharma
+      dates:
+        start: 2020-spring
+        end:
+  groups:
+    iol:
+      start: 2020-summer
+
+dorotheav: 
+  first_name: Dorothea
+  last_name: Völkerling
+  gender: female
+  credentials:
+    tub: 404241
+  degrees:
+    - type: msc
+      field: scientific computing
+      institution: tub
+      thesis:
+          advisor: sebastian.pokutta
+          reviewer: thorsten.koch
+          internal_advisor:
+            - kartikey.sharma
+            - felix.prause
+          title: Anomaly Detection for Sensor Data of Air Handling Units
+          topic: 
+          grade:
+          dates:
+              started:
+              registered: 2021-11
+              submitted: 2022-05-30
+              defended:
+              graded: 
+
+hagenletzig: 
+  first_name: Hagen
+  last_name: Letzig
+  gender: male
+  private_email: letzighagen@gmail.com
+  credentials:
+    tub: 391531
+  degrees:
+  - type: bsc
+    field: 
+    institution:
+    thesis:
+        advisor: 
+          - Anna Hedström
+          - sebastian.pokutta
+        reviewer: 
+        internal_advisor: kartikey.sharma
+        title: Analysing the evaluation of explanation methods in the context of neural network training
+        topic: Explainability in Neural Networks
+        grade:
+        dates:
+            started: 2022-11
+            registered: 
+            submitted: 
+            defended: 
+            graded: 
+
+joshuaa: 
+  first_name: Joshua
+  last_name: Augustin
+  gender: male
+  private_email: joshua.augustin@gmx.de
+  degrees:
+    - type: msc
+      field: 
+      institution:
+      thesis:
+          advisor: sebastian.pokutta
+          internal_advisor:
+            - kartikey.sharma
+            - christoph.spiegel
+          title: 
+          topic: Machine Learning and Differential Equations
+          grade:
+          dates:
+              started:
+              registered:
+              submitted:
+              defended:
+              graded: 
