@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /students/
-title: My Students
+title: Students
 tags: [students]
 modified: 14-7-2023
 comments: false
@@ -18,14 +18,14 @@ List of students I have worked with:
 {% for stud in site.data.student_list %}
 {% for sdeg in stud.degrees %}
 {% if sdeg.type == "bsc" %}
-{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
-<b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ sdeg.thesis.title }}</b> 
+<b>{{ stud.first_name }} {{ stud.last_name }}</b> 
+<br>
+<b>Thesis</b> : {{ sdeg.thesis.title }}
+</p>
 </li>
 
-{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
@@ -41,14 +41,14 @@ List of students I have worked with:
 {% for stud in site.data.student_list %}
 {% for sdeg in stud.degrees %}
 {% if sdeg.type == "msc" %}
-{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
-<b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ sdeg.thesis.title }}</b> 
+<b>{{ stud.first_name }} {{ stud.last_name}}</b> 
+<br>
+<b>Thesis</b>: {{ sdeg.thesis.title }} 
+</p>
 </li>
 
-{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
@@ -65,14 +65,14 @@ List of students I have worked with:
 {% for stud in site.data.student_list %}
 {% for sdeg in stud.degrees %}
 {% if sdeg.type == "phd" %}
-{% if "kartikey.sharma" in sdeg.internal_advisor %}
 
 <li ><p>
-<b>{{ stud.first_name stud.last_name}}</b> 
-<b>Thesis: {{ sdeg.thesis.title }}</b> 
+<b>{{ stud.first_name }} {{ stud.last_name}}</b> 
+<br>
+<b>Thesis</b>: {{ sdeg.thesis.title }} 
+</p>
 </li>
 
-{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
