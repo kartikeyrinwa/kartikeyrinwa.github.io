@@ -203,25 +203,21 @@
 - first_name: Konrad
   last_name: Mundinger
   gender: male
-  email:
-    - mundinger@zib.de
-    - mundinger@math.tu-berlin.de
-    # - radecki-mundinger@zib.de # ???
-   degrees:
-    - type: phd
-      field: mathematics
-      institution: tub
-      advisor: sebastian.pokutta
-      internal_advisor:
-        - kartikey.sharma
-      title: 
-      topic: 
-      dates:
-          started: 2023-spring
-          registered:
-          submitted:
-          defended: 
-          graded:
+  degrees:
+  - type: phd
+    field: mathematics
+    institution: tub
+    advisor: sebastian.pokutta
+    internal_advisor:
+      - kartikey.sharma
+    title: 
+    topic: 
+    dates:
+        started: 2023-spring
+        registered:
+        submitted:
+        defended: 
+        graded:
 
 - first_name: Surya
   last_name: Iyer

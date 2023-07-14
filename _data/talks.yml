@@ -127,10 +127,10 @@
 
 - title: "Data-driven Distributionally Robust Optimization over Time"
   year: 2023
-  month: "7"
+  month: "07"
   type: technical
-  venue: Invited Seminar
+  venue: Universität Passau
   location: Passau, Germany
-  slides: 
-  slidetype: 
+  slides: "passau_2023.key"
+  slidetype: "slides" 
 
