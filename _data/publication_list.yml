@@ -1,3 +1,21 @@
+- title: "Identifying Patterns of Medical Intervention in Acute Respiratory Failure: A Retrospective Observational Study"
+  year: 2023
+  type: journal
+  label: kruser2023identifying
+  image: 
+  description: 
+  authors: Jacqueline M Kruser, Kartikey Sharma, Jane L Holl, Omid Nohadani
+  link_pre:
+    url: 
+    display: 
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{kruser2023identifying,
+        title={Identifying Patterns of Medical Intervention in Acute Respiratory Failure: A Retrospective Observational Study},
+        author={Kruser, Jacqueline M and Sharma, Kartikey and Holl, Jane L and Nohadani, Omid}}
+
 - title: "Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions"
   year: 2023
   type: preprint
