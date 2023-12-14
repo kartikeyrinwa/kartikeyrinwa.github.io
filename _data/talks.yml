@@ -134,3 +134,21 @@
   slides: "passau_2023.key"
   slidetype: "slides" 
 
+- title: Traffic Assignment and Network Design
+  year: 2023
+  month: "08"
+  type: technical
+  venue: GOR Annual Meeting
+  location: Hamburg, Germany
+  paper:
+  slides: "gor_2023.pdf"
+
+- title: "Data-driven Distributionally Robust Optimization over Time"
+  year: 2023
+  month: "10"
+  type: technical
+  venue: INFORMS Annual Meeting
+  location: Phoenix, USA
+  slides: "informs_2023.pdf"
+  slidetype: "slides" 
+
