@@ -1,3 +1,22 @@
+- title: "Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe"
+  year: 2024
+  type: journal
+  label: sharma2024netdesign
+  image: 
+  description: 
+  authors: Kartikey Sharma, Deborah Hendrych, Mathieu Besançon, Sebastian Pokutta
+  link_pre: 
+    url: https://arxiv.org/abs/2402.00166
+    display: arXiv:2402.00166 (2024)
+  link_main:
+    url: 
+    display: Proceedings of INFORMS Optimization Society Conference.
+  bibtex: |
+        @article{sharma2024netdesign,
+        title={Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe},
+        author={Sharma, Kartikey and Hendrych, Deborah and Besançon, Mathieu and Pokutta, Sebastian}
+        year={2024}}
+
 - title: "Identifying Patterns of Medical Intervention in Acute Respiratory Failure: A Retrospective Observational Study"
   year: 2023
   type: journal
@@ -54,24 +73,24 @@
         author={Aigner, Kevin-Martin and B{\"a}rmann, Andreas and Braun, Kristin and Liers, Frauke and Pokutta, Sebastian and Schneider, Oskar and Sharma, Kartikey and Tschuppik, Sebastian}}
 
 - title: "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
-  year: 2022
-  type: preprint
-  label: waldchen2022merlin
+  year: 2024
+  type: journal
+  label: waldchen2024merlin
   image: 
   description: 
   authors: Stephan Wäldchen, Kartikey Sharma, Max Zimmer, Berkant Turan, Sebastian Pokutta
   link_pre:
     url: https://arxiv.org/abs/2206.00759.pdf
-    display: arXiv:2206.00759 (2022)
+    display: arXiv:2206.00759 (2024)
   link_main:
     url: 
-    display: 
+    display: Proceedings of International Conference on Artificial Intelligence and Statistics.
   bibtex: |
-        @article{waldchen2022merlin,
+        @article{waldchen2024merlin,
         title={Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes},
         author={W{\"a}ldchen, Stephan and Sharma, Kartikey and Zimmer, Max and Pokutta, Sebastian},
-        journal={arXiv preprint arXiv:2206.00759},
-        year={2022}}
+        journal={Proceedings of International Conference on Artificial Intelligence and Statistics},
+        year={2024}}
 
 - title: Optimization under Connected Uncertainty
   year: 2022

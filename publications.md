@@ -35,7 +35,7 @@ You can also find all my publications on <a href="https://scholar.google.com/cit
 
 </ul>
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+<h4 style="margin-bottom:0px;padding-top:10px;">Journal and Conference Publications</h4>
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
