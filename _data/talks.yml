@@ -161,3 +161,21 @@
   slides: "ios_2024.pdf"
   slidetype: "slides" 
 
+- title: "Dynamic Capacity Management for Deferred Surgeries"
+  year: 2024
+  month: "09"
+  type: technical
+  venue: IIT Bombay Seminar
+  location: Mumbai, India
+  slides: "iitbombay_2024.pdf"
+  slidetype: "slides" 
+
+- title: "Tractable Optimization for Multilinear Uncertainty"
+  year: 2024
+  month: "10"
+  type: technical
+  venue: INFORMS Annual Meeting
+  location: Seattle, USA
+  slides: "informs_2024.pdf"
+  slidetype: "slides" 
+
