@@ -53,6 +53,23 @@
         title={Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions},
         author={Goess, Adrian and Martin, Alexander and Pokutta, Sebastian and Sharma, Kartikey}}
 
+- title: "Feature-Based Interpretable Surrogates for Optimization"
+  year: 2024
+  type: preprint
+  label: goerigk2024fiso
+  image: 
+  description: 
+  authors: Marc Goerigk, Michael Hartisch, Sebastian Merten, Kartikey Sharma
+  link_pre:
+    url: https://arxiv.org/abs/2409.01869
+    display: arXiv:2409.01869 (2024)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{goerigk2024fiso,
+        title={Feature-Based Interpretable Surrogates for Optimization},
+        author={Goerigk, Marc and Hartisch, Michael and Merten, Sebastian and Sharma, Kartikey}}
 
 - title: "Data-driven Distributionally Robust Optimization over Time"
   year: 2023
