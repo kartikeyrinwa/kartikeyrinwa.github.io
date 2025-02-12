@@ -9,7 +9,7 @@
     url: https://arxiv.org/abs/2402.00166
     display: arXiv:2402.00166 (2024)
   link_main:
-    url: 
+    url: https://sites.google.com/view/ios2024refereed
     display: Proceedings of INFORMS Optimization Society Conference.
   bibtex: |
         @article{sharma2024netdesign,
@@ -28,12 +28,18 @@
     url: 
     display: 
   link_main:
-    url: 
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10589534/
     display: Critical Care Explorations
   bibtex: |
         @article{kruser2023identifying,
         title={Identifying Patterns of Medical Intervention in Acute Respiratory Failure: A Retrospective Observational Study},
-        author={Kruser, Jacqueline M and Sharma, Kartikey and Holl, Jane L and Nohadani, Omid}}
+        author={Kruser, Jacqueline M and Sharma, Kartikey and Holl, Jane L and Nohadani, Omid},
+        journal={Critical Care Explorations},
+        volume={5},
+        number={10},
+        pages={e0984},
+        year={2023},
+        publisher={LWW}}
 
 - title: "Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions"
   year: 2023
@@ -83,13 +89,20 @@
     display: arXiv:2304.05377 (2023)
   link_main:
     url: https://pubsonline.informs.org/doi/10.1287/ijoo.2023.0091
-    display: Accepted for publication in INFORMS Journal on Optimization
+    display: INFORMS Journal on Optimization
   bibtex: |
         @article{aigner2022distributionally,
-        title={Distributionally Robust Optimization over Time},
-        author={Aigner, Kevin-Martin and B{\"a}rmann, Andreas and Braun, Kristin and Liers, Frauke and Pokutta, Sebastian and Schneider, Oskar and Sharma, Kartikey and Tschuppik, Sebastian}}
+        title={Data-driven distributionally robust optimization over time},
+        author={Aigner, Kevin-Martin and B{\"a}rmann, Andreas and Braun, Kristin and Liers, Frauke and Pokutta, Sebastian and Schneider, Oskar and Sharma, Kartikey and Tschuppik, Sebastian},
+        journal={INFORMS Journal on Optimization},
+        volume={5},
+        number={4},
+        pages={376--394},
+        year={2023},
+        publisher={INFORMS}}
 
-- title: "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
+
+- title: "Interpretability Guarantees with Merlin-Arthur Classifiers"
   year: 2024
   type: journal
   label: waldchen2024merlin
@@ -100,14 +113,19 @@
     url: https://arxiv.org/abs/2206.00759.pdf
     display: arXiv:2206.00759 (2024)
   link_main:
-    url: 
+    url: https://proceedings.mlr.press/v238/waldchen24a/waldchen24a.pdf
     display: Proceedings of International Conference on Artificial Intelligence and Statistics.
   bibtex: |
-        @article{waldchen2024merlin,
-        title={Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes},
-        author={W{\"a}ldchen, Stephan and Sharma, Kartikey and Zimmer, Max and Pokutta, Sebastian},
-        journal={Proceedings of International Conference on Artificial Intelligence and Statistics},
-        year={2024}}
+        @InProceedings{waldchen2024merlin,
+        title = 	 {Interpretability Guarantees with {M}erlin-{A}rthur Classifiers},
+        author =       {W\"{a}ldchen, Stephan and Sharma, Kartikey and Turan, Berkant and Zimmer, Max and Pokutta, Sebastian},
+        booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+        pages = 	 {1963--1971},
+        year = 	 {2024},
+        volume = 	 {238},
+        series = 	 {Proceedings of Machine Learning Research},
+        publisher =    {PMLR}}
+
 
 - title: Optimization under Connected Uncertainty
   year: 2022
@@ -124,13 +142,17 @@
     display: INFORMS Journal on Optimization
   bibtex: |
         @article{nohadani2022optimization,
-          title={Optimization Under Connected Uncertainty},
-          author={Nohadani, Omid and Sharma, Kartikey},
-          journal={INFORMS Journal on Optimization},
-          year={2022},
-          publisher={INFORMS}}
+        title={Optimization under connected uncertainty},
+        author={Nohadani, Omid and Sharma, Kartikey},
+        journal={INFORMS Journal on Optimization},
+        volume={4},
+        number={3},
+        pages={326--346},
+        year={2022},
+        publisher={INFORMS}}
+
   
-- title: "Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks"
+- title: "  "
   year: 2022
   type: journal
   label: kossen2022toward
