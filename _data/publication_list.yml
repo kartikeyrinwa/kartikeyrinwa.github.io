@@ -1,3 +1,25 @@
+- title: "Scenario Reduction for Distributionally Robust Optimization"
+  year: 2025
+  type: preprint
+  label: aigner2025srdro
+  image: 
+  description: 
+  authors: Kevin-Martin Aigner, Sebastian Denzler, Frauke Liers, Sebastian Pokutta, Kartikey Sharma
+  link_pre:
+    url: https://arxiv.org/abs/2503.11484
+    display: arXiv:2503.11484 (2025)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{aigner2025srdro,
+                 title={Scenario Reduction for Distributionally Robust Optimization},
+                 author={Aigner, Kevin-Martin and Denzler, Sebastian and Liers, Frauke and Pokutta, Sebastian and Sharma, Kartikey},
+                 journal={arXiv preprint arXiv:2503.11484},
+                 year={2025}
+                }
+
+
 - title: "Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe"
   year: 2024
   type: journal
