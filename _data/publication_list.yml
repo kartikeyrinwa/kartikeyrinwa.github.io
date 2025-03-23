@@ -19,6 +19,30 @@
                  year={2025}
                 }
 
+- title: "Mathematical Optimization for Machine Learning."
+  year: 2025
+  type: book
+  label: fackeldey2025moml
+  image: 
+  description: 
+  authors:  Konstantin Fackeldey, Aswin Kannan, Sebastian Pokutta, Kartikey Sharma, Daniel Walter, Andrea Walther, Martin Weiser
+  link_pre:
+    url: 
+    display: 
+  link_main:
+    url: https://www.degruyter.com/document/isbn/9783111376776/html?lang=en&srsltid=AfmBOoqFeGIzS1hyScppOWLgQ-MsJFA2Ydjbiszw0BICGgtvCN1gdS00
+    display: Proceedings of the MATH+ Thematic Einstein Semester 2023
+  bibtex: |
+        @book{fackeldey2025moml,
+              title = {Mathematical Optimization for Machine Learning},
+              title = {Proceedings of the MATH+ Thematic Einstein Semester 2023},
+              editor = {Konstantin Fackeldey and Aswin Kannan and Sebastian Pokutta and Kartikey Sharma and Daniel Walter and Andrea Walther and Martin Weiser},
+              publisher = {De Gruyter},
+              isbn = {9783111376776},
+              year = {2025}
+             }
+
+
 
 - title: "Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe"
   year: 2024
