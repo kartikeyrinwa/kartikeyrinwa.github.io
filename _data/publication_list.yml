@@ -88,7 +88,7 @@
         publisher={LWW}}
 
 - title: "Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions"
-  year: 2023
+  year: 2025
   type: preprint
   label: goess2023nic
   image: 
@@ -99,7 +99,7 @@
     display: kobv.de (2023)
   link_main:
     url: 
-    display: 
+    display: Accepted for publication in the Journal of Global Optimization
   bibtex: |
         @article{goess2023nic,
         title={Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions},
