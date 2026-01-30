@@ -87,9 +87,9 @@
         year={2023},
         publisher={LWW}}
 
-- title: "Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions"
-  year: 2025
-  type: preprint
+- title: "Norm-induced cuts: outer approximation for Lipschitzian constraint functions"
+  year: 2026
+  type: journal
   label: goess2023nic
   image: 
   description: 
@@ -98,12 +98,14 @@
     url: https://opus4.kobv.de/opus4-trr154/files/518/nic_preprint.pdf
     display: kobv.de (2023)
   link_main:
-    url: 
-    display: Accepted for publication in the Journal of Global Optimization
+    url: https://link.springer.com/article/10.1007/s10898-025-01563-9
+    display: Journal of Global Optimization 
   bibtex: |
         @article{goess2023nic,
-        title={Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions},
-        author={Goess, Adrian and Martin, Alexander and Pokutta, Sebastian and Sharma, Kartikey}}
+        title={Norm-induced cuts: outer approximation for Lipschitzian constraint functions},
+        author={Goess, Adrian and Martin, Alexander and Pokutta, Sebastian and Sharma, Kartikey},
+        journal={Journal of Global Optimization},
+        year={2026}}
 
 - title: "Feature-Based Interpretable Surrogates for Optimization"
   year: 2024
