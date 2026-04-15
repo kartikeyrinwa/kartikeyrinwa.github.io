@@ -17,7 +17,7 @@ Projects
 {% assign number_printed = 0 %}
 {% for proj in site.data.project_list %}
 {% if proj.type == "btp" %}
-{% if proj.year == "2026" %}
+{% if proj.year == 2026 %}
 
 <li ><p>
 <b>{{ proj.title }}</b> 
