@@ -7,8 +7,6 @@ modified: 15-4-2026
 comments: false
 ---
 
-Projects
-
 <!-- BTP -->
 
 <h4 style="margin-bottom:0px;padding-top:10px;">Bachelor Thesis Projects</h4>
