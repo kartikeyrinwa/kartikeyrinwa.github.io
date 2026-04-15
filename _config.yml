@@ -33,13 +33,15 @@ links:
     url: /talks/
   - title: Students
     url: /students/
+  - title: Other
+    url: /other/
   - title: About
     url: /
 #  - title: Posts
 #  url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/London
+timezone:    Asia/Kolkata
 future:      true
 #pygments:    true
 highlighter: rouge

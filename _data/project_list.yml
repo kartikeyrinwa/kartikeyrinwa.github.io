@@ -1,0 +1,28 @@
+- title: Spare part prediction
+  type: btp
+  year: 2026
+  description: |
+    We have a company that manufactures machines and their spare parts and supplies them to the customers. 
+    If the machines break down then customers request spare parts from the company.
+    We want to predict the total demand for the different types of spare parts in any given month. 
+
+    We have information about the historical requests for the different types of spare parts by the customers and the customers themselves.
+    There are two types of customers: those on annual maintenance contracts and those without any. For the former, we have more detailed information about exactly which machine the spare part is in. For the latter, the information is limited to the previous requests made by the customer. 
+    We do not have information about how the machines in which the spare parts were put are used i.e., lightly or intensively.
+
+- title: Customer order prediction
+  type: btp
+  year: 2026
+  description: |
+    A company needs to deliver goods to customers. Previously if the company had a partial truck load, it used to use an external delivery service to deliver the goods to customers where as it managed full truck loads itself. However, the company wants to bring the partial truck loads in house. To maximize efficiency it wants to delay truck delivery until the truck is full. For this purpose it wants to predict customer demand for the products in upcoming days (especially demand in particular regions) so as to decide whether to delay the truck to pick up more packages (and thus improve efficiency) or to send it out today as well as its route. 
+    Our objective is to predict the customer demands for different goods during the next week given region-wise historical demand data.
+
+- title: Neural network based KKT solver
+  type: btp
+  year: 2026
+  description: | 
+    Physics informed Neural Networks have been developed to solve ODEs and PDEs. In this project, the goal is to leverage the same 
+    idea in order to solve optimization problems. We consider an infinite dimensional optimization problem where the decision variable 
+    is a function. The optimal solution needs to satisfy the KKT conditions. The objective is to train a neural network which represents the 
+    optimal function by training it to satisfy the KKT equations. 
+
