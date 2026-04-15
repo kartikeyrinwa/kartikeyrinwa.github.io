@@ -10,5 +10,9 @@ Till recently, I was a postdoc at the Zuse Institute Berlin (ZIB) in the <a href
 
 ### Research
 
-I am interested in Optimization and Machine Learning. I have worked on problems in the domain of Robust Optimization, Theoretical Machine Learning and Explainability . 
+I am interested in Optimization and Machine Learning. I have worked on problems in the domain of Robust Optimization, Theoretical Machine Learning and Explainability. 
+
+### Office 
+
+My office is at Block III, 3B-25.
 

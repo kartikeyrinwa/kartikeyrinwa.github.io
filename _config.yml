@@ -25,18 +25,18 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: About
+    url: /
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /cv/
+  # - title: CV
+  #   url: /cv/
   - title: Talks
     url: /talks/
   - title: Students
     url: /students/
   - title: Other
     url: /other/
-  - title: About
-    url: /
 #  - title: Posts
 #  url: /blog/
 
